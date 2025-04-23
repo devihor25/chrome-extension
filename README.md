@@ -1,6 +1,4 @@
-# LockedIn Chrome Extension
-
-A Chrome extension for Google OAuth authentication.
+# A Chrome extension for Google OAuth authentication.
 
 ## Setup Instructions
 
